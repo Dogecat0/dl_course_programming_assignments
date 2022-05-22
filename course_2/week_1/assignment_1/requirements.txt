@@ -1,0 +1,5 @@
+numpy
+matplotlib
+sklearn
+dlai_tools
+tensorflow
